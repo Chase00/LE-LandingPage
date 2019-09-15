@@ -1,0 +1,52 @@
+body {
+    background-image: url("assets/background.png")
+}
+
+.logo{
+    width: 300px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mcicon {
+    width: 100px;
+    height: 100px;
+    line-height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.discordicon {
+    width: 70px;
+    height: 70px;
+    line-height: 50px;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    padding-left: 3em;   
+}
+
+p {
+    color: white;
+    font-size: 40px;
+    line-height: 50px;
+    font-family: 'Caveat Brush', 'Times New Roman', Times;
+}
+
+ul {
+    text-align: center;
+    padding-right: 8em;
+}
+
+.box {
+    background-color: rgba(100, 100, 100, 0.5);
+    border-radius: 4em;
+    margin-left: 250px;
+    margin-right: 250px;
+    box-shadow: 5px 6px 8px #000000;
+}
+
+::selection {
+    background: #ceff8f;
+  }
