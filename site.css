@@ -28,10 +28,19 @@ body {
 }
 
 p {
-    color: white;
+    color: rgb(160, 255, 147);
     font-size: 40px;
     line-height: 50px;
     font-family: 'Caveat Brush', 'Times New Roman', Times;
+    text-shadow: 3px 3px 5px #000000;
+}
+
+.clockfont {
+    color: rgb(160, 255, 147);
+    font-size: 40px;
+    line-height: 30px;
+    font-family: 'Caveat Brush', 'Times New Roman', Times;  
+    text-shadow: 3px 3px 5px #000000;
 }
 
 ul {
