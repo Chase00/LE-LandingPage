@@ -1,7 +1,6 @@
 body {
     background-image: url("assets/background.png");
     background-repeat: no-repeat;
-    background-attachment: fixed;
 }
 
 .logo{
@@ -38,7 +37,7 @@ p {
 
 .clockfont {
     color: rgb(160, 255, 147);
-    font-size: 5vw;
+    font-size: 4vw;
     line-height: 5vw;
     font-family: 'Caveat Brush', 'Times New Roman', Times;  
     text-shadow: 3px 3px 5px #000000;
