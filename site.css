@@ -1,7 +1,12 @@
+html {
+    background-color: #1f1f1f;
+}
+
 body {
     background-image: url("assets/background.png");
     background-repeat: no-repeat;
     background-color: #1f1f1f;
+    box-shadow: 3px 4px 4px #222222;
 }
 
 .logo{
